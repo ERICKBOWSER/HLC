@@ -20,4 +20,8 @@
 
 
 
+cvzf comprime
+
+tgz para saber que esta comprimido
+
 
