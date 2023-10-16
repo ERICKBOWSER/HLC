@@ -24,4 +24,18 @@ cvzf comprime
 
 tgz para saber que esta comprimido
 
+& para que el gedit se ejecute en segundo plano y no se quede colgado mientras la terminal.
+
+![image](https://github.com/ERICKBOWSER/HLC/assets/92431188/30868edd-8d06-46d5-9945-8e10621ccce4)
+
+Permisos para ejecutarse.
+
+![image](https://github.com/ERICKBOWSER/HLC/assets/92431188/d0d8d8da-147e-4d9b-9179-5313af48f9bf)
+
+
+## IMPORTANTE
+
+Todos los script tienen que tener extensión sh.
+
+
 
